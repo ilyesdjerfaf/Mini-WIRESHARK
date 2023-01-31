@@ -1,0 +1,31 @@
+* Dézippez le fichier et se mettre dans le dossier dézippé
+
+* Ouvrez un terminal
+
+* Installer tkinter :
+	pip install tkinter
+
+* Placez vous dans le dossier : Groupe7_21215141_DJERFAF_Ilyes_21119283_SNAOUI_Adam
+	cd Groupe7_21215141_DJERFAF_Ilyes_21119283_SNAOUI_Adam
+
+* Lancer la commande :
+
+	python3 main_djerfaf_snaoui.py
+
+* Pour appliquer les filtres :
+	protocol == (ARP, TCP, UDP, ICMP, IGMP, ENCAP, OSPF, SCTP)
+	http
+	tcp
+	tcp.port=
+	tcp.scrport==
+	tcp.destport==
+	udp
+	udp.port==
+	udp.srcport==	
+	udp.destport==
+	port==
+	srcport==
+	destport==
+	ip==
+	ip.src==
+	ip.dst==
