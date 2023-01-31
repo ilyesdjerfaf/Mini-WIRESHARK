@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-  Dans ce projet on se propose de programmer un visualisateur des flux de trafic réseau.
+  Dans ce projet on programme un visualisateur des flux de trafic réseau. (MINI WIRESHARK)
   Le visualisateur prendra en entrée un fichier trace au format texte contenant les octets capturés préalablement sur un réseau Ethernet.
   
   Notre visualisateur permet de visualiser en plus de :
