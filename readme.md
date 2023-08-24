@@ -1,6 +1,6 @@
 ## Visualiseur de Trames
 
-## Introduction:
+## Introduction - PROJET FINAL du module Reseaux LU3IN033 - SORBONNE UNIVERSITE
 
   Dans ce projet on programme un visualisateur des flux de trafic réseau. (MINI WIRESHARK)
   Le visualisateur prendra en entrée un fichier trace au format texte contenant les octets capturés préalablement sur un réseau Ethernet.
